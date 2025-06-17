@@ -42,5 +42,6 @@ public class BaiTap3 {
         System.out.println(danhGia);
 
         System.out.println("Hello Denis");
+        System.out.println("Hello Mia");
     }
 }
